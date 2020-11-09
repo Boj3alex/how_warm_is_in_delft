@@ -1,6 +1,5 @@
 FROM python:3.7-alpine
 
-
 COPY requirements.txt /
 COPY how_warm_is_in_delft.py /
 
